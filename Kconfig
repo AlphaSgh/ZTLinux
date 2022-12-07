@@ -1,0 +1,6 @@
+config     SECURITY_ZTLINUX
+   bool     "ZTLinux support"
+   depends on SECURITY
+   default     n
+   help
+        introduction of ZTLinux
